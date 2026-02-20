@@ -14,15 +14,3 @@ Outros	Git, GitHub, Metodologias Ágeis
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
-
-📊 Estatísticas do GitHub
-<div align="center">
-<a href="https://github.com/pedrodanilo48">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrodanilo48&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodanilo48&layout=compact&langs_count=7&theme=radical"/>
-</a>
-</div>
-
-🤝 Vamos nos conectar?
-<div align="left">
-<a href="mailto:pedrodanilo48@gmail.com">
