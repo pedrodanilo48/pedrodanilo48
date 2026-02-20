@@ -26,9 +26,3 @@ Outros	Git, GitHub, Metodologias Ágeis
 🤝 Vamos nos conectar?
 <div align="left">
 <a href="mailto:pedrodanilo48@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/pedro-danilo-/">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-</div>
