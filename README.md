@@ -1,8 +1,7 @@
 🚀 Full Stack Developer | Pedro Danilo
 Olá! Sou um desenvolvedor focado em criar soluções eficientes e escaláveis. Adoro transformar ideias complexas em interfaces intuitivas e backends robustos. Atualmente, estou focado no ecossistema JavaScript/TypeScript.
 
-🛠️ Tecnologias e Ferramentas
-Categoria	Tecnologias
+Tecnologias
 Frontend	React.js, Next.js, HTML5, CSS3, Styled Components, Tailwind
 Backend	Node.js, TypeScript, APIs RESTful
 Outros	Git, GitHub, Metodologias Ágeis
