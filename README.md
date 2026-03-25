@@ -3,10 +3,9 @@ Olá! Sou um desenvolvedor focado em criar soluções eficientes e escaláveis. 
 
 Tecnologias
 Frontend	React.js, Next.js, HTML5, CSS3, Styled Components, Tailwind
-Backend	Node.js, TypeScript, APIs RESTful
+Backend	Node.js, TypeScript, PostgreSQL APIs RESTful
 Zz jmg
 
-Outros	Git, GitHub, Metodologias Ágeis
 <div align="left">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
